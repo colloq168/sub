@@ -1,1 +1,3 @@
 hao.haohaohao.xyz:443#电信优化版
+cmcc_ipv4.158861.xyz:443#移动ipv4
+cmcc_ipv6.158861.xyz:443#移动ipv
