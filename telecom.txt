@@ -1,3 +1,7 @@
-hao.haohaohao.xyz:443#电信优化版
-cmcc_ipv4.158861.xyz:443#移动ipv4
+cloudflare.lingyucat.com:443#三网优化版
+hao.haohaohao.xyz:443#电信优化版-1
+ct.cloudflare.lingyucat.com:443#电信优化版-2
+cmcc_ipv4.158861.xyz:443#移动ipv4-1
+cm.cloudflare.lingyucat.com:443#移动ipv4-2
 cmcc_ipv6.158861.xyz:443#移动ipv6
+cu.cloudflare.lingyucat.com:443#联通ipv4
