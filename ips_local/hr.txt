@@ -1,0 +1,2 @@
+5.181.2.71:443#HR [ChatGPT] 2.49 Mbps
+5.181.2.41:443#HR [ChatGPT] 2.32 Mbps
