@@ -1,1 +1,2 @@
-45.83.20.29:443#BE [ChatGPT] 3.40 Mbps
+95.164.62.196:443#BE [ChatGPT] 2.78 Mbps
+45.83.20.29:443#BE [ChatGPT] 2.37 Mbps
