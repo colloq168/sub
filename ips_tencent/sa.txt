@@ -1,2 +1,1 @@
-43.159.5.103:443#SA [ChatGPT] 8.21 Mbps
-43.159.0.16:443#SA [ChatGPT] 6.37 Mbps
+43.159.0.16:443#SA [ChatGPT] 7.83 Mbps
