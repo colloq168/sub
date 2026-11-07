@@ -1,0 +1,2 @@
+94.131.92.95:443#KZ [ChatGPT] 2.24 Mbps
+46.8.254.32:443#KZ [ChatGPT] 2.11 Mbps

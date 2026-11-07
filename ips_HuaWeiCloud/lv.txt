@@ -1,0 +1,3 @@
+31.57.26.96:443#LV [ChatGPT] 2.77 Mbps
+31.57.105.27:443#LV [ChatGPT] 2.74 Mbps
+31.56.113.17:443#LV [ChatGPT] 2.57 Mbps

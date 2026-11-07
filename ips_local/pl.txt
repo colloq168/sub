@@ -1,0 +1,2 @@
+94.103.0.67:443#PL [ChatGPT] 2.49 Mbps
+45.194.66.88:443#PL [ChatGPT] 2.30 Mbps
